@@ -1,0 +1,10 @@
+html{background: linear-gradient(rgb(170, 170, 170) 75%, rgba(158, 158, 158, 0));
+background-repeat: no-repeat; height: 230px; width: 100%}
+
+.single-row-1{padding: 10px;}
+.single-row-2{padding-top: 10px; padding-bottom: 10px;padding-left: 2.5vw; padding-right: 2.5vw;}
+
+.single-row-3{ background: rgb(240, 240, 240); margin-left: 20px; text-align: center;
+       border-radius: 2mm;  padding: 10px; }
+.single-row-4{background: rgb(240, 240, 240); padding-top: 10px; padding-bottom: 10px;padding-left: 2.5vw; padding-right: 2.5vw;
+border-radius: 2mm; margin: 0.5vw;}
