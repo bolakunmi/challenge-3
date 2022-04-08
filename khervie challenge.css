@@ -26,7 +26,8 @@ html{
        padding: 10px; 
 }
 
-.single-row-4{background: rgb(240, 240, 240); 
+.single-row-4{
+       background: rgb(240, 240, 240); 
        padding-top: 10px; 
        padding-bottom: 10px;
        padding-left: 2.5vw; 
@@ -35,7 +36,8 @@ html{
        margin: 0.5vw;
 }
 
-.main-image{transform: translateX(20%);
+.main-image{
+       transform: translateX(20%);
        background-repeat: no-repeat;
        background-size: cover;
        animation-name: image-slide;
@@ -43,6 +45,22 @@ html{
        animation-timing-function: ease-in-out;
        animation-iteration-count: infinite;
        
+}
+
+.company-name{
+       float: left;
+       margin-left: 5% ; 
+       margin-right: 5%; 
+       font-size: 6mm; 
+       font-weight: 900;
+}
+
+#underline-text:hover{
+       text-decoration: underline;
+}
+
+.Easy-Steps:hover{
+       transform: scale(1.5);
 }
 
 @keyframes image-slide{
