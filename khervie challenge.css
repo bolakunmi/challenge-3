@@ -48,6 +48,7 @@ html{
 }
 
 .company-name{
+       font-family: 'Cinzel', serif;
        float: left;
        margin-left: 5% ; 
        margin-right: 5%; 
